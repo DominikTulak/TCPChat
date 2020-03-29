@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPTest", "TCPTest\TCPTest.csproj", "{9EAC8CFC-5E8A-4B82-B267-8BB30E129BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EAC8CFC-5E8A-4B82-B267-8BB30E129BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAC8CFC-5E8A-4B82-B267-8BB30E129BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAC8CFC-5E8A-4B82-B267-8BB30E129BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAC8CFC-5E8A-4B82-B267-8BB30E129BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61FE46EB-A6EC-43AC-BE84-02F90EBD1D7F}
+	EndGlobalSection
+EndGlobal
